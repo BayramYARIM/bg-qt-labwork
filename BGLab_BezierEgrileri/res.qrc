@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/nokta.png</file>
+    </qresource>
+</RCC>
